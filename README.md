@@ -1,24 +1,16 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+|| THP PARIS SESSION 5 ||
+|| SEM-05 - HEROKU     ||
+|| PROJET - SECRET APP ||
+|| Créateur : @Julia   ||
 
-Things you may want to cover:
+SECRET APP
+==========
 
-* Ruby version
+## Comment acceder à l'application ? ##
 
-* System dependencies
+Via ce lien -> [Secret App](https://appsecret.herokuapp.com/)
 
-* Configuration
+## Explications de l'application ## 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Salut moussaillon, entre ton login pour découvrir la réponse à ta question.
